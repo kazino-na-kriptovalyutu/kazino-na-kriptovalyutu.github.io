@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-kriptovalyutu.github.io
+Sitemap: https://kazino-na-kriptovalyutu.github.io/sitemap.xml
